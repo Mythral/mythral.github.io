@@ -1,10 +1,12 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I am the Founder / Chief Executive Officer for [Mythral Studios](https://mythralstudios.com). I am actively involved in the development of all of our projects.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+I'm a developer who primarily specializes in the .NET family, including C# and ASP.NET.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+I have also done a large amount of work in the Unity environment.
+
+Aside from the .NET family, I have also done a fair amount of development in HTML, CSS and JavaScript.
