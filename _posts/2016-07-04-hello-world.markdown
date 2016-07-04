@@ -9,4 +9,4 @@ Hello Everyone, I just got this site up and running! It's hosted on GitHub Pages
 
 > Happy Programming Everyone!
 >
-> - <cite>Jacob Linney</cite>
+> <cite>Jacob Linney</cite>
