@@ -1,19 +1,17 @@
 {
-	"name": "Jacob linney",
+	"name": "Jacob Linney",
 	"icons": [
 		{
-			"src": "\/android-chrome-192x192.png?v=eEEgb8PExK",
+			"src": "\/android-chrome-192x192.png?v=WGGK7Wx6nO",
 			"sizes": "192x192",
 			"type": "image\/png"
 		},
 		{
-			"src": "\/android-chrome-512x512.png?v=eEEgb8PExK",
+			"src": "\/android-chrome-512x512.png?v=WGGK7Wx6nO",
 			"sizes": "512x512",
 			"type": "image\/png"
 		}
 	],
 	"theme_color": "#ffffff",
-	"start_url": "http:\/\/jacoblinney.me",
-	"display": "standalone",
-	"orientation": "portrait"
+	"display": "standalone"
 }
