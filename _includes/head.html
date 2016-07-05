@@ -13,6 +13,8 @@
   <meta name="description" content="{{ site.longdescription }}">
   {% endif %}
   {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+  <!-- Google+ Page -->
+  <link rel="publisher" href="https://plus.google.com/b/118402854551319605107/+JacoblinneyMe">
   <!-- Twitter Cards -->
   {% if page.image %}{% capture image %}{{ page.image }}{% endcapture %}{% unless image contains 'http://' or image contains 'https://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
   <meta name="twitter:card" content="summary_large_image">
@@ -21,7 +23,6 @@
   <meta name="twitter:image" content="{{ site.url }}/images/{{ site.darklogo }}">{% endif %}
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.longdescription }}{% endif %}">
-
   {% if site.twitter %}<meta name="twitter:site" content="@{{ site.twitter }}">
   <meta name="twitter:creator" content="@{{ site.twitter }}">{% endif %}
   <!-- Open Graph -->
