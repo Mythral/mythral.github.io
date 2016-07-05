@@ -1,6 +1,7 @@
 .block-left {
   float: left;
   background: linear-gradient(rgba(44,45,51,0.9), rgba(44,45,51,0.9)), url(http://jacoblinney.me/images/home.png) no-repeat;
+  background-size: cover;
   .content {
     z-index: 1;
     position: relative;
