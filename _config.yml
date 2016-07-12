@@ -2,9 +2,9 @@
 title: Jacob Linney
 description: Developer & Technology Enthusiast
 longdescription: This is my personal blog for all things technology related! I write about programming tips and tricks as well as reviews of tools and services.
-url: http://jacoblinney.me
+url: https://jacoblinney.me
 logo: mythral.png                                       # Site logo
-darklogo: mythral-dark.png 
+darklogo: mythral-dark.png
 locale: en_US
 
 # Left Block Images
